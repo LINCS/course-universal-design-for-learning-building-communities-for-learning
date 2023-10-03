@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2465" moduleid="9860" modulename="page" contextid="65008">
+  <page id="2465">
+    <name>Key Idea: All learning is social.</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/Key%20Idea.png" alt="" width="140" height="136" role="presentation" class="img-responsive atto_image_button_middle"&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;/span&gt;&lt;span data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Self-efficacy is the belief that you can do what needs to be done to bring about a desired&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;outcome in each situation. &amp;nbsp;Your self-efficacy can improve when you work as part of learning&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;community, in part because you are able to observe a variety of ways people approach and&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;solve problems.&amp;nbsp; Research shows that increasing self-efficacy can reduce the negative effects&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;of adverse childhood experiences and improve long-term academic outcomes &lt;a href="$@PAGEVIEWBYID*9888@$" target="_blank"&gt;(Cohrdes &amp;amp; Mauz, 2020)&lt;/a&gt;&lt;/span&gt;&lt;span data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;. Learning in groups helps can raise your belief that you too are able to master&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;the necessary skills to accomplish a goal too.&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;img src="@@PLUGINFILE@@/Divider%20Wave%20%281%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1690386469</timemodified>
+  </page>
+</activity>

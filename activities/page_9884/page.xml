@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2489" moduleid="9884" modulename="page" contextid="65032">
+  <page id="2489">
+    <name>Review Your Initial Thoughts</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;&lt;span&gt;&lt;span style="font-size: 1.7rem;"&gt;Watch this video again and as you do so, consider what you’ve learned in this module. Would you change or add to how you respond to the initial prompts?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Video Title: &lt;/strong&gt;Eve Puhalla and Classroom Community&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration: &lt;/strong&gt;3min 31sec
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/OCTAE%20Transcripts%20Module%205%20Building%20Communities%20for%20Learning_0.docx" target="_blank"&gt;Downloadable
+Transcripts&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://youtu.be/u-phh8tAmTg" target="_blank"&gt;Eve Puhalla and Classroom Community (video)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 1.7rem;"&gt;&lt;img src="@@PLUGINFILE@@/pencil-icon.png?time=1676334073420" alt="" width="140" height="90" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;How have you seen community impact learning?&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+        &lt;li&gt;What activities do you currently include in your classroom to build learners' feelings of&amp;nbsp;community?&lt;/li&gt;
+        &lt;li&gt;How do you gauge if your efforts to build a sense of community for all learners are working?&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1690387261</timemodified>
+  </page>
+</activity>
